@@ -1,4 +1,4 @@
-# -Bascom_avr-Thermometer With Persian Font
+# Bascom_avr-Thermometer With Persian Font
 
 <p align="center">
 <img src="./Pic.jpg" height="240">
